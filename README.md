@@ -1,2 +1,1 @@
-# tewhcents.github.io
-Tewhcents Github Pages
+Published web site of Tewhcents.
